@@ -1,0 +1,33 @@
+.speech{
+    font-style: normal 5px;
+    color:black;
+}
+.direction{
+    font-style: italic 3px;
+    color: black;
+    background-color: antiquewhite;
+}
+.direction:hover{
+    background-color: bisque;
+    color:aqua ;
+}
+.tuzenbach{
+    color: blanchedalmond;
+    font-style: italic;
+}
+.irina{
+    color: blue;
+    font-style: normal;
+}
+.fedotik{
+    color: blueviolet;
+    font-style: oblique;
+}
+.kuligin{
+    color: brown;
+    font-style: inherit;
+}
+.rode{
+    color: burlywood;
+    font-style: unset;
+}
