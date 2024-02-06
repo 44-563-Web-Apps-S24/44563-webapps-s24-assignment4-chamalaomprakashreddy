@@ -1,5 +1,5 @@
 .speech{
-    font-style: normal 5px;
+    font-style:normal 5px;
     color:black;
 }
 .direction{
@@ -46,6 +46,7 @@
 table,th,td{
     border: 2px solid black;
     border-collapse: collapse;
+    background-color: chocolate;
     color: chartreuse;
     text-align: center;
     row-gap: 20px;
