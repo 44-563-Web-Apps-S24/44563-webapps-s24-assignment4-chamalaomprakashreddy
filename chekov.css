@@ -11,6 +11,14 @@
     background-color: rgb(46, 45, 79);
     color:aqua ;
 }
+#name{
+    border-left: 0px;
+    text-shadow: none;
+}
+#name:hover{
+    color: darkgreen;
+    text-shadow: 3px 3px 10px rgb(26, 3, 79);
+}
 .tuzenbach{
     color: blanchedalmond;
     font-style: italic;
