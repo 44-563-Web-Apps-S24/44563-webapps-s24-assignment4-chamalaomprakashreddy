@@ -64,18 +64,14 @@ table,th,td{
     display: flex;
     justify-content: space-around;
 }
-.navbar a {
+.navbar{
     text-decoration: none;
     color: black;
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
 }
-.navbar i {
-    font-size: 24px;
-    margin-bottom: 80px;
-}
-.navbar a:hover {
+.navbar:hover {
     color: goldenrod; 
 }
 .image{
