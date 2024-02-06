@@ -58,6 +58,7 @@ table,th,td{
     text-align: center;
     padding: 10px;
     bottom: 0;
+    height: 150px;
     width: 100%;
     display: flex;
     justify-content: space-around;
