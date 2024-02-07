@@ -65,9 +65,14 @@ table,th,td{
     justify-content: space-around;
 }
 .navbar:hover {
-    color: goldenrod; 
+    color: goldenrod;
 }
 .image{
      height: 300px;
      width: 100%;   
+}
+.fa{
+    font-size: 50px;
+    color: aqua;
+    padding: 3%;
 }
